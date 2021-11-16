@@ -7,3 +7,4 @@ Git is free software distributed under the GPL.
 this should show one insertion(+) zero deletion.
 a aa a
 
+aaaaaaaa
