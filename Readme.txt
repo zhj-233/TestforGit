@@ -8,3 +8,4 @@ this should show one insertion(+) zero deletion.
 a aa a
 
 aaaaaaaa 
+一个inter 算
